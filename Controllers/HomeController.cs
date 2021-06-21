@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using PartyInvites.Models;
 
+
 namespace PartyInvites.Controllers
 {
     public class HomeController : Controller
@@ -35,8 +36,16 @@ namespace PartyInvites.Controllers
             return View();
         }
 
+        [HttpGet]
         public ViewResult RsvpForm()
         {
+            return View();
+        }
+
+        [HttpPost]
+        public ViewResult RsvpForm(GuestResponse guestResponse)
+        {
+            // TODO: Store Response from guest
             return View();
         }
 
