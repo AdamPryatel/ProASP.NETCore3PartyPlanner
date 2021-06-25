@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+qxcZWMd/mJxNStqU1fj6heUGgLzr3Mfo+6DeQ37x1qXe+h2ADLFELBaR5z4nQAp3uRz8D/QlhalxGKQyG4plQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adamp\\source\\repos\\ProASP.NETCore3\\ProASP.NETCore3PartyPlanner\\PartyInvites.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adamp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
